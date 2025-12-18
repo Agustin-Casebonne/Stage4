@@ -1,0 +1,13 @@
+com\distributed\matrix\HazelcastMatrixMultiply.class
+com\distributed\matrix\FrequentItemSets.class
+com\distributed\matrix\FrequentItemSets$Context.class
+com\distributed\matrix\DistributedMatrixMultiplication$MatrixReducer.class
+com\distributed\matrix\DistributedMatrixMultiplication$MatrixMapper.class
+com\distributed\matrix\BlockMatrixMultiplicationWithTrace.class
+com\distributed\matrix\DistributedMatrixMultiplication$Context.class
+com\distributed\matrix\FrequentItemSets$SupportReducer.class
+com\distributed\matrix\MatrixBlock.class
+com\distributed\matrix\BlockMultiplyTask.class
+com\distributed\matrix\DistributedMatrixMultiplication.class
+com\distributed\matrix\FrequentItemSets$ItemCountMapper.class
+com\distributed\matrix\DistributedMatrixMultiplication$1.class
