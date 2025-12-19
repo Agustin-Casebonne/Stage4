@@ -20,10 +20,10 @@ This project evaluates different dense matrix multiplication strategies implemen
 All Java source files are located under:
 src/main/java/com/distributed/matrix
 
-java --% -cp "target/classes;lib/hazelcast-4.2.8.jar" -Dhazelcast.port=5701 com.distributed.matrix.HazelcastWorker
-java --% -cp "target/classes;lib/hazelcast-4.2.8.jar" com.distributed.matrix.HazelcastMatrixMultiply
+- java --% -cp "target/classes;lib/hazelcast-4.2.8.jar" -Dhazelcast.port=5701 com.distributed.matrix.HazelcastWorker
+- java --% -cp "target/classes;lib/hazelcast-4.2.8.jar" com.distributed.matrix.HazelcastMatrixMultiply
 
 ## Run Python benchmarks
-python basic_matrix_multiplication.py
-python parallel_matrix_multiplication.py
-python distributed_matrix_multiplication.py
+- python basic_matrix_multiplication.py
+- python parallel_matrix_multiplication.py
+- python distributed_matrix_multiplication.py
